@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">育てているお猿さん</h3>
+
 ![kusa evolution](https://kusa-evolution.onrender.com/evolution?username=kip2)
 
 
