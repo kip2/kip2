@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## [サマリー](./tokyonight/README.md)
+## [Summary](./tokyonight/README.md)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
