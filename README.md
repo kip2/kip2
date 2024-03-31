@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">I want to try</h3>
 
-[![Things I've used](https://skillicons.dev/icons?i=arch,arduino,bash,blender,bsd,bun,c,cs,cpp,clojure,cmake,dart,deno,dotnet,elixir,emacs,flutter,forth,gradle,go,godot,graphql,haskell,htmx,kali,kotlin,kubernetes,laravel,latex,linux,lus,neovim,nextjs,nim,nix,ocaml,opencv,perl,powershell,processing,regex,ruby,svg,unity,unreal,vue,wasm,zig,figma&theme=light)](https://skillicons.dev)
+[![Things I've used](https://skillicons.dev/icons?i=arch,arduino,bash,blender,bsd,bun,c,cs,cpp,clojure,cmake,dart,deno,dotnet,elixir,emacs,flutter,forth,gradle,go,godot,graphql,haskell,htmx,kali,kotlin,kubernetes,laravel,latex,linux,lua,neovim,nextjs,nim,nix,ocaml,opencv,perl,powershell,processing,regex,ruby,svg,unity,unreal,vue,wasm,zig,figma&theme=light)](https://skillicons.dev)
