@@ -48,5 +48,5 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   </p>  
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,html,css,js,php,python,mysql,nodejs,react,rust,java,spring,scala,figma&theme=light)](https://skillicons.dev)
 
