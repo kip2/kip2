@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Things I've used</h3>
 
-[!My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,html,css,js,php,python,mysql,nodejs,react,rust,java,spring,scala,figma&theme=light)](https://skillicons.dev)
+[![Things I've used](https://skillicons.dev/icons?i=aws,docker,nginx,html,css,js,php,python,mysql,nodejs,react,rust,java,spring,scala,figma&theme=light)](https://skillicons.dev)
 
