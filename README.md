@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kip2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
-
-<h3 align="left">Things I've used</h3>
+<h3 align="left">I've used</h3>
 
 <h4>Infrastructure</h4>
 
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 [![Backend](https://skillicons.dev/icons?i=js,php,python,nodejs,rust,java,scala&theme=light)](https://skillicons.dev)
 
+---
 
 <h3 align="left">I want to try</h3>
 
