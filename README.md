@@ -34,10 +34,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Things I've used</h3>
 
+<h4 Infrastructure></h4>
 [![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx&theme=light)](https://skillicons.dev)
 
+<h4 Frontend></h4>
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,nodejs,react&theme=light)](https://skillicons.dev)
 
+<h4 Backend></h4>
 [![Backend](https://skillicons.dev/icons?i=js,php,python,nodejs,rust,java,scala&theme=light)](https://skillicons.dev)
 
 
