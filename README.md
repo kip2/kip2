@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 
 [![Backend](https://skillicons.dev/icons?i=js,php,python,nodejs,rust,java,scala&theme=light)](https://skillicons.dev)
 
----
-
 <h3 align="left">I want to try</h3>
 
 [![Things I've used](https://skillicons.dev/icons?i=arch,arduino,bash,blender,bsd,bun,c,cs,cpp,clojure,cmake,dart,deno,dotnet,elixir,emacs,flutter,forth,gradle,go,godot,graphql,haskell,htmx,kali,kotlin,kubernetes,laravel,latex,linux,lua,neovim,nextjs,nim,nix,ocaml,opencv,perl,powershell,processing,regex,ruby,svg,unity,unreal,vue,wasm,zig&theme=light)](https://skillicons.dev)
