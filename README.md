@@ -64,7 +64,7 @@
 
 ---
 
-<h3 align="left">I've used</h3>
+<h3 align="left">🐈️ I've used 💪</h3>
 
 <h4>Infrastructure</h4>
 
