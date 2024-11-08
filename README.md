@@ -1,5 +1,6 @@
 <h1 align="center">🐈️　Hey, I'm kip2!　🐈️</h1>
 
+## Connect with me
 <a href="https://kip2.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-1.0-orange?style=for-the-badge">
 </a>
