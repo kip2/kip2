@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 <a href= "https://github.com/kip2" >
 <img height= "20" src= "https://img.shields.io/github/followers/kip2?label=follow&logo=github&style=flat" />
 </a>
-<a href= "https://zenn.dev/kip2" >
-<img height= "20" src= "https://badgen.org/img/zenn/kip2/articles?style=plastic" />
-</a>
-</p>
+<a href="https://zenn.dev/kip2"><img src="https://badgen.org/img/zenn/kip2/likes?style=for-the-badge" alt="Likes" /></a>
+<a href="https://zenn.dev/kip2"><img src="https://badgen.org/img/zenn/kip2/articles?style=for-the-badge" alt="Articles" /></a>
 
 
 ## [Summary](./tokyonight/README.md)
