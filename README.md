@@ -4,7 +4,7 @@
 
 ### Exploring various languages each day as curiosity leads me.🚀
 
-- I'm currently learning, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on ...
+### 🌱I'm currently learning, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on ...
 
 ## 🐈️ Connect with me 💻️
 <a href="https://kip2.dev">
