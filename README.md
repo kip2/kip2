@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align= "left" >
 <a href= "https://github.com/kip2" >
-<img height= "20" src= "https://komarev.com/ghpvc/?username=kip2" />
+<img height= "20" src= "https://komarev.com/ghpvc/?username=kip2&style=for-the-badge" />
 </a>
 <a href= "https://github.com/kip2" >
 <img height= "20" src= "https://img.shields.io/github/followers/kip2?label=follow&logo=github&style=for-the-badge" />
