@@ -4,6 +4,9 @@
 
 🐙[My Github](https://github.com/kip2/)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fkip2%2F?style=for-the-badge">
+
+
 ## 🐈️　State 🐈️
 <p align= "left" >
 <a href= "https://github.com/kip2" >
