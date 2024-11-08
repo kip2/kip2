@@ -7,8 +7,6 @@
 ![My profile card](/public//gif/animated_text.gif)
 
 <br/>
-<br/>
-<br/>
 
 ### Hobbyist programmer👨‍💻  and just a programming language enthusiast🤓. 
 
@@ -16,9 +14,6 @@
 
 ### I'm currently learning🌱, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on ...
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
