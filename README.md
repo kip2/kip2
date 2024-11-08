@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://zenn.dev/kip2"><img src="https://badgen.org/img/zenn/kip2/likes?style=flat-square" alt="Likes" /></a>
 <a href="https://zenn.dev/kip2"><img src="https://badgen.org/img/zenn/kip2/articles?style=flat-square" alt="Articles" /></a>
-
+<a href="https://atcoder.jp/users/kip2?contestType=algo"><img src="https://badgen.org/img/atcoder/kip2/rating/algorithm?style=flat-square" alt="Rating" /></a>
 
 ## [Summary](./tokyonight/README.md)
 
