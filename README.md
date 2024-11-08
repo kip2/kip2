@@ -1,4 +1,4 @@
-<h1 align="center">🐈️　Hey, I'm kip2!　🐈️</h1>
+<h1 align="center">🐈️　I'm kip2!　🐈️</h1>
 
 <br/>
 <br/>
