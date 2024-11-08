@@ -6,6 +6,11 @@
 
 ### 🌱I'm currently learning, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on ...
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## 🐈️ Connect with me 💻️
 <a href="https://kip2.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-1.0-orange?style=for-the-badge">
