@@ -5,7 +5,7 @@
 </a>
 
 <a href= "https://github.com/kip2" >
-<img alt="Static Badge" src="https://img.shields.io/badge/Github-profile-gray?style=for-the-badge&logo=github">
+<img alt="Static Badge" src="https://img.shields.io/badge/Github_profile?style=for-the-badge&logo=github">
 </a>
 
 <a href= "https://zenn.dev/kip2" >
