@@ -5,7 +5,7 @@
 🐙[My Github](https://github.com/kip2/)
 
 <a href= "https://github.com/kip2" >
-<img alt="Static Badge" src="https://img.shields.io/badge/My_Github-black?style=for-the-badge&logo=github">
+<img alt="Static Badge" src="https://img.shields.io/badge/My_Github-gray?style=for-the-badge&logo=github">
 </a>
 
 
