@@ -15,7 +15,9 @@
 <br/>
 <br/>
 <br/>
+
 ## 🐈️ Connect with me 💻️
+
 <a href="https://kip2.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-1.0-orange?style=for-the-badge">
 </a>
@@ -34,6 +36,7 @@
 </a>
 
 ## 🐈️ State 📝
+
 <p align= "left" >
 <a href= "https://github.com/kip2" >
 <img height= "20" src= "https://komarev.com/ghpvc/?username=kip2&style=for-the-badge" />
