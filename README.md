@@ -31,7 +31,7 @@
 <a href="https://atcoder.jp/users/kip2?contestType=algo"><img src="https://badgen.org/img/atcoder/kip2/rating/algorithm?style=flat-square" alt="Rating" /></a>
 
 
-## 🐙 Github Stats
+## 🐈️ Github Stats
 <p align="left">
   <img alt="Top Langs" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
   <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api?username=kip2&show_icons=true&theme=tokyonight" />
