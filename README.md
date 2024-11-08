@@ -8,6 +8,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Github-gray?style=for-the-badge&logo=github">
 </a>
 
+<a href= "https://zenn.dev/kip2" >
+<img alt="Static Badge" src="https://img.shields.io/badge/Zenn_profile-blue?style=for-the-badge&logo=zenn">
+</a>
+
 
 ## 🐈️　State 🐈️
 <p align= "left" >
