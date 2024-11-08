@@ -1,6 +1,6 @@
 <h1 align="center">🐈️　Hey, I'm kip2!　🐈️</h1>
 
-## Connect with me
+## 🐈️ Connect with me
 <a href="https://kip2.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-1.0-orange?style=for-the-badge">
 </a>
@@ -18,7 +18,7 @@
 
 </a>
 
-## 🐈️State🐈️
+## 🐈️ State
 <p align= "left" >
 <a href= "https://github.com/kip2" >
 <img height= "20" src= "https://komarev.com/ghpvc/?username=kip2&style=for-the-badge" />
@@ -31,7 +31,7 @@
 <a href="https://atcoder.jp/users/kip2?contestType=algo"><img src="https://badgen.org/img/atcoder/kip2/rating/algorithm?style=flat-square" alt="Rating" /></a>
 
 
-## 🐙Github Stats🐙
+## 🐙 Github Stats
 <p align="left">
   <img alt="Top Langs" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
   <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api?username=kip2&show_icons=true&theme=tokyonight" />
