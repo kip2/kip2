@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 <a href= "https://github.com/kip2" >
 <img height= "20" src= "https://img.shields.io/github/followers/kip2?label=follow&logo=github&style=flat" />
 </a>
-<a href= "http://qiita.com/kip2" >
-<img height= "20" src= "https://qiita-badge.apiapi.app/s/kip2/posts.svg" />
-</a>
-<a href= "http://qiita.com/kip2" >
-<img height= "20" src= "https://qiita-badge.apiapi.app/s/kip2/contributions.svg" />
-</a>
 <a href= "https://zenn.dev/kip2" >
 <img height= "20" src= "https://badgen.org/img/zenn/kip2/articles?style=plastic" />
 </a>
