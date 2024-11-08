@@ -1,6 +1,5 @@
 <h1 align="center">🐈️　Hey, I'm kip2!　🐈️</h1>
 
-💻️[My Website](https://kip2.dev)
 <a href="https://kip2.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-Version1.0-blue?style=for-the-badge">
 </a>
