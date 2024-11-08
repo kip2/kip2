@@ -12,8 +12,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Zenn_profile-blue?style=for-the-badge&logo=zenn">
 </a>
 
-<a href= "https://x.com/kip2" >
-<img alt="Static Badge" src="https://img.shields.io/badge/X_profile-black?style=for-the-badge&logo=x&labelColor=white">
+<a href= "https://x.com/_kip2" >
+<img alt="Static Badge" src="https://img.shields.io/badge/X_profile-black?style=for-the-badge&logo=x">
+
 </a>
 
 ## 🐈️　State 🐈️
