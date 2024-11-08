@@ -1,6 +1,10 @@
 <h1 align="center">🐈️　Hey, I'm kip2!　🐈️</h1>
 
-### Hobbyist programmer👨‍💻  and just a programming language enthusiast🤓. Exploring various languages each day as curiosity leads me.🚀
+### Hobbyist programmer👨‍💻  and just a programming language enthusiast🤓. 
+
+### Exploring various languages each day as curiosity leads me.🚀
+
+- I'm currently learning, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on ...
 
 ## 🐈️ Connect with me 💻️
 <a href="https://kip2.dev">
