@@ -4,6 +4,12 @@
 <br/>
 <br/>
 
+![My profile card](/public//gif/animated_text.gif)
+
+<br/>
+<br/>
+<br/>
+
 ### Hobbyist programmer👨‍💻  and just a programming language enthusiast🤓. 
 
 ### Exploring various languages each day as curiosity leads me.🚀
