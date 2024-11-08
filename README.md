@@ -14,8 +14,6 @@
 
 ### I'm currently learning🌱, Clojure, ClojureScript, Go, Rust, React, TypeScript, and so on...
 
-<br/>
-<br/>
 
 ## 🐈️ Connect with me 💻️
 
