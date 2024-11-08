@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-![My profile card](/public//gif/animated_text.gif)
+![My profile card](/public//gif/profile_anime.gif)
 
 <br/>
 
