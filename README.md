@@ -51,8 +51,10 @@
 
 ## 🐈️ Github Stats 🐙
 <p align="left">
-  <img alt="Top Langs" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
-  <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api?username=kip2&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="120px" src="https://github-readme-stats-kip2s-projects.vercel.app
+/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
+  <img alt="github stats" height="120px" src="https://github-readme-stats-kip2s-projects.vercel.app
+/api?username=kip2&show_icons=true&theme=tokyonight" />
 </p>
 
   [![](https://raw.githubusercontent.com/kip2/kip2/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
