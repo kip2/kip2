@@ -50,7 +50,6 @@
 
 
 ## 🐈️ Github Stats 🐙
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip2)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   <img alt="Top Langs" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip2&layout=donut&theme=tokyonight" />
   <img alt="github stats" height="120px" src="https://github-readme-stats.vercel.app/api?username=kip2&show_icons=true&theme=tokyonight" />
