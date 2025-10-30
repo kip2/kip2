@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kip2/kip2/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+```
+
+    
