@@ -1,12 +1,6 @@
 <h1 align="center">🐈️　I'm kip2!　🐈️</h1>
 
 <br/>
-<br/>
-<br/>
-
-![My profile card](/public//gif/profile_anime.gif)
-
-<br/>
 
 ### Hobbyist programmer👨‍💻  and just a programming language enthusiast🤓. 
 
